@@ -88,6 +88,7 @@ const config: Config = {
       logo: {
         alt: 'Carolina University Marketing Guidelines Logo',
         src: 'img/seal.png',
+        href: '/',
       },
       items: [
         {

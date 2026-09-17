@@ -120,7 +120,7 @@ export default function Home(): ReactNode {
           <div className={styles.heroInner}>
             <p className={styles.eyebrow}>Carolina University</p>
             <Heading as="h1" className={styles.heroTitle}>
-              Marketing Guidelines
+              Carolina University Marketing Guidelines
             </Heading>
             <p className={styles.heroLead}>
               A polished home for CU logos, colors, typography, seals, email
@@ -129,7 +129,7 @@ export default function Home(): ReactNode {
             <div className={styles.heroActions}>
               <Link
                 className={styles.getStartedAction}
-                to="/docs/category/carolina-university-branding">
+                to="/docs/Carolina%20University%20Branding/University%20Seals">
                 Get Started
               </Link>
             </div>
