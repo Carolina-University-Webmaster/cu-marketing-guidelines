@@ -1,41 +1,26 @@
-# Website
+# Carolina University Marketing Guidelines
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This repository hosts the Carolina University marketing and branding guidelines website. It provides approved guidance for the university’s visual identity, marketing standards, and brand usage across digital and print materials.
 
-## Installation
+## Purpose
 
-```bash
-yarn
-```
+The site includes resources for:
 
-## Local Development
+- University branding
+- Logo standards
+- Brand colors
+- Typography
+- Letterhead
+- Email signatures
+- PowerPoint templates
+- Virtual backgrounds
+- Athletics branding
+- Logo and seal usage guidelines
 
-```bash
-yarn start
-```
+## Technologies
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+This project is built with:
 
-## Build
-
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- Docusaurus
+- React
+- TypeScript
