@@ -92,8 +92,7 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          to: '/docs/Carolina%20University%20Branding/University%20Seals',
           position: 'left',
           label: 'Guidelines',
         },

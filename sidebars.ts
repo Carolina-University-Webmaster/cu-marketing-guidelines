@@ -18,16 +18,16 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'Carolina University Branding',
       items: [
-        'Carolina University Branding/Colors',
         'Carolina University Branding/University Seals',
+        'Carolina University Branding/Colors',
       ],
     },
     {
       type: 'category',
       label: 'Athletics Branding',
       items: [
-        'Athletics Branding/- Athletics Colors',
         'Athletics Branding/- Athletics Logos',
+        'Athletics Branding/- Athletics Colors',
       ],
     },
     'Typography',
