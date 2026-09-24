@@ -17,7 +17,7 @@ CU weblink or other approved link (if desired) [11pt or “Normal” in Gmail]
   <em>Associate Professor of Examples</em><br/>
   <span>Office: Deeds Hall 202</span><br/>
   <span>336-714-9999 | <a className="signature-link" href="mailto:samplej@carolinau.edu">{'samplej@carolinau.edu'}</a></span><br/><br/>
-  <a className="signature-link" href="https://sas.carolinau.edu/program/bachelor-arts/criminal-justice">Learn More About Our Criminal Justice Program</a>
+ 
 </div>
 
 <br/><br/>
@@ -28,7 +28,7 @@ CU weblink or other approved link (if desired) [11pt or “Normal” in Gmail]
   <em>Assistant Basket Weaving Coach</em><br/>
   <span>Office: Stevens Hall 205</span><br/>
   <span>336-714-9999 | <a className="signature-link" href="mailto:samplej@carolinau.edu">{'samplej@carolinau.edu'}</a></span><br/><br/>
-  <a className="signature-link" href="https://cubruins.com/sports/softball">Bruins Athletics Website</a>
+  
 </div>
 
 <br/><br/>
