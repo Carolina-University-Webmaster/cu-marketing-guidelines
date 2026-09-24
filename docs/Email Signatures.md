@@ -10,17 +10,15 @@ Office: Building and Number (if applicable) [11pt or "Normal" in Gmail]
 office number | email address [11pt or “Normal” in Gmail]  
   
 CU weblink or other approved link (if desired) [11pt or “Normal” in Gmail]  
-<br/><br/>
+
 <p className="signature-heading">Example:</p>
 <div className="signature-example">
   <strong>John L. Sample, Ph.D.</strong><br/>
   <em>Associate Professor of Examples</em><br/>
   <span>Office: Deeds Hall 202</span><br/>
   <span>336-714-9999 | <a className="signature-link" href="mailto:samplej@carolinau.edu">{'samplej@carolinau.edu'}</a></span><br/><br/>
- 
 </div>
 
-<br/><br/>
 <p className="signature-heading">Example with 2 titles:</p>
 <div className="signature-example">
   <strong>Coach Susan G. Sample</strong><br/>
@@ -31,7 +29,6 @@ CU weblink or other approved link (if desired) [11pt or “Normal” in Gmail]
   
 </div>
 
-<br/><br/>
 Please note that the CU logo and general university information will automatically be added to outgoing emails (emails sent outside the carolinau.edu domain).  Below is what will be added automatically:
 
  **Carolina University**  
