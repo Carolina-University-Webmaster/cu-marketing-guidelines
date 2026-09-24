@@ -21,7 +21,7 @@ sidebar_position: 1
   </a>
 
   <a className="asset-card" href="/img/cu-logo-assets/seal-text-light.png">
-    <span className="asset-preview">
+    <span className="asset-preview asset-preview-dark">
       <img src="/img/cu-logo-assets/seal-text-light.png" alt="Seal Text Light" />
     </span>
     <span className="asset-name">Seal Text Light</span>
