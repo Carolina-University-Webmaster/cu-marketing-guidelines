@@ -27,6 +27,20 @@ sidebar_position: 1
     <span className="asset-name">Seal Text Light</span>
   </a>
 
+  <a className="asset-card" href="/img/cu-logo-assets/seal-text-below-dark.png">
+    <span className="asset-preview">
+      <img src="/img/cu-logo-assets/seal-text-below-dark.png" alt="Seal Text Below Dark" />
+    </span>
+    <span className="asset-name">Seal Text Below Dark</span>
+  </a>
+
+  <a className="asset-card" href="/img/cu-logo-assets/seal-text-below-light.png">
+    <span className="asset-preview asset-preview-dark">
+      <img src="/img/cu-logo-assets/seal-text-below-light.png" alt="Seal Text Below Light" />
+    </span>
+    <span className="asset-name">Seal Text Below Light</span>
+  </a>
+
   <a className="asset-card" href="/img/cu-logo-assets/seal-blue.png">
     <span className="asset-preview">
       <img src="/img/cu-logo-assets/seal-blue.png" alt="Blue Seal" />
@@ -49,72 +63,84 @@ sidebar_position: 1
   </a>
 </div>
 
+## CU Text Logos: PNG
+
+<div className="asset-grid">
+  <a className="asset-card" href="/img/cu-logo-assets/text-dark.png">
+    <span className="asset-preview">
+      <img src="/img/cu-logo-assets/text-dark.png" alt="CU Text Logo Dark" />
+    </span>
+    <span className="asset-name">CU Text Logo Dark</span>
+  </a>
+
+  <a className="asset-card" href="/img/cu-logo-assets/text-light.png">
+    <span className="asset-preview asset-preview-dark">
+      <img src="/img/cu-logo-assets/text-light.png" alt="CU Text Logo Light" />
+    </span>
+    <span className="asset-name">CU Text Logo Light</span>
+  </a>
+</div>
+
 ## University Seal: SVG
 
 <div className="asset-grid">
-  <a className="asset-card" href="/img/cu-logo-assets/CU%20Seal%20Outline_blue.svg" target="_blank" rel="noopener noreferrer">
-    <span className="asset-preview">
-      <img src="/img/cu-logo-assets/CU%20Seal%20Outline_blue.svg" alt="CU Seal Outline Blue" />
-    </span>
-    <span className="asset-name">CU Seal Outline Blue</span>
-  </a>
-
   <a className="asset-card" href="/img/cu-logo-assets/Carolina%20University%20Seal.svg" target="_blank" rel="noopener noreferrer">
     <span className="asset-preview">
       <img src="/img/cu-logo-assets/Carolina%20University%20Seal.svg" alt="Carolina University Seal" />
     </span>
-    <span className="asset-name">Carolina University Seal</span>
-  </a>
-</div>
-
-## Horizontal Seal and Text Logos: SVG
-
-<div className="asset-grid">
-  <a className="asset-card" href="/img/cu-logo-assets/Blue%20Seal%20and%20Text_Horizontal_Dark.svg" target="_blank" rel="noopener noreferrer">
-    <span className="asset-preview">
-      <img src="/img/cu-logo-assets/Blue%20Seal%20and%20Text_Horizontal_Dark.svg" alt="Blue Seal and Text Horizontal Dark" />
-    </span>
-    <span className="asset-name">Blue Seal and Text Horizontal Dark</span>
-  </a>
-
-  <a className="asset-card" href="/img/cu-logo-assets/Blue%20Seal%20and%20Text_Horizontal_light.svg" target="_blank" rel="noopener noreferrer">
-    <span className="asset-preview asset-preview-dark">
-      <img src="/img/cu-logo-assets/Blue%20Seal%20and%20Text_Horizontal_light.svg" alt="Blue Seal and Text Horizontal Light" />
-    </span>
-    <span className="asset-name">Blue Seal and Text Horizontal Light</span>
+    <span className="asset-name">Seal</span>
   </a>
 
   <a className="asset-card" href="/img/cu-logo-assets/Seal%20and%20Text%20Logo_Horizontal_Dark.svg" target="_blank" rel="noopener noreferrer">
     <span className="asset-preview">
       <img src="/img/cu-logo-assets/Seal%20and%20Text%20Logo_Horizontal_Dark.svg" alt="Seal and Text Logo Horizontal Dark" />
     </span>
-    <span className="asset-name">Seal and Text Logo Horizontal Dark</span>
+    <span className="asset-name">Seal Text Dark</span>
   </a>
 
   <a className="asset-card" href="/img/cu-logo-assets/Seal%20and%20Text%20Logo_Horizontal_Light.svg" target="_blank" rel="noopener noreferrer">
     <span className="asset-preview asset-preview-dark">
       <img src="/img/cu-logo-assets/Seal%20and%20Text%20Logo_Horizontal_Light.svg" alt="Seal and Text Logo Horizontal Light" />
     </span>
-    <span className="asset-name">Seal and Text Logo Horizontal Light</span>
+    <span className="asset-name">Seal Text Light</span>
   </a>
-</div>
 
-## Vertical Seal and Text Logos: SVG
-
-<div className="asset-grid">
   <a className="asset-card" href="/img/cu-logo-assets/Seal%20and%20Text%20Logo_Vertical_Dark.svg" target="_blank" rel="noopener noreferrer">
     <span className="asset-preview">
       <img src="/img/cu-logo-assets/Seal%20and%20Text%20Logo_Vertical_Dark.svg" alt="Seal and Text Logo Vertical Dark" />
     </span>
-    <span className="asset-name">Seal and Text Logo Vertical Dark</span>
+    <span className="asset-name">Seal Text Below Dark</span>
   </a>
+
 
   <a className="asset-card" href="/img/cu-logo-assets/Seal%20and%20Text%20Logo_Vertical_Light.svg" target="_blank" rel="noopener noreferrer">
     <span className="asset-preview asset-preview-dark">
       <img src="/img/cu-logo-assets/Seal%20and%20Text%20Logo_Vertical_Light.svg" alt="Seal and Text Logo Vertical Light" />
     </span>
-    <span className="asset-name">Seal and Text Logo Vertical Light</span>
+    <span className="asset-name">Seal Text Below Light</span>
   </a>
+
+  <a className="asset-card" href="/img/cu-logo-assets/CU%20Seal%20Outline_blue.svg" target="_blank" rel="noopener noreferrer">
+    <span className="asset-preview">
+      <img src="/img/cu-logo-assets/CU%20Seal%20Outline_blue.svg" alt="CU Seal Outline Blue" />
+    </span>
+    <span className="asset-name">Blue Seal</span>
+  </a>
+
+  <a className="asset-card" href="/img/cu-logo-assets/Blue%20Seal%20and%20Text_Horizontal_Dark.svg" target="_blank" rel="noopener noreferrer">
+    <span className="asset-preview">
+      <img src="/img/cu-logo-assets/Blue%20Seal%20and%20Text_Horizontal_Dark.svg" alt="Blue Seal and Text Horizontal Dark" />
+    </span>
+    <span className="asset-name">Blue Seal Text Dark</span>
+  </a>
+
+  <a className="asset-card" href="/img/cu-logo-assets/Blue%20Seal%20and%20Text_Horizontal_light.svg" target="_blank" rel="noopener noreferrer">
+    <span className="asset-preview asset-preview-dark">
+      <img src="/img/cu-logo-assets/Blue%20Seal%20and%20Text_Horizontal_light.svg" alt="Blue Seal and Text Horizontal Light" />
+    </span>
+    <span className="asset-name">Blue Seal Text Light</span>
+  </a>
+
 </div>
 
 ## CU Text Logos: SVG
