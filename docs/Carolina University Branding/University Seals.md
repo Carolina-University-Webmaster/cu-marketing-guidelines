@@ -6,56 +6,56 @@ sidebar_position: 1
 ## University Seal: PNG
 
 <div className="asset-grid">
-  <a className="asset-card" href="/img/cu-logo-assets/seal.png">
+  <a className="asset-card" href="/img/cu-logo-assets/seal.png" target="_blank" rel="noopener noreferrer">
     <span className="asset-preview">
       <img src="/img/cu-logo-assets/seal.png" alt="Seal" />
     </span>
     <span className="asset-name">Seal</span>
   </a>
 
-  <a className="asset-card" href="/img/cu-logo-assets/seal-text-dark.png">
+  <a className="asset-card" href="/img/cu-logo-assets/seal-text-dark.png" target="_blank" rel="noopener noreferrer">
     <span className="asset-preview">
       <img src="/img/cu-logo-assets/seal-text-dark.png" alt="Seal Text Dark" />
     </span>
     <span className="asset-name">Seal Text Dark</span>
   </a>
 
-  <a className="asset-card" href="/img/cu-logo-assets/seal-text-light.png">
+  <a className="asset-card" href="/img/cu-logo-assets/seal-text-light.png" target="_blank" rel="noopener noreferrer">
     <span className="asset-preview asset-preview-dark">
       <img src="/img/cu-logo-assets/seal-text-light.png" alt="Seal Text Light" />
     </span>
     <span className="asset-name">Seal Text Light</span>
   </a>
 
-  <a className="asset-card" href="/img/cu-logo-assets/seal-text-below-dark.png">
+  <a className="asset-card" href="/img/cu-logo-assets/seal-text-below-dark.png" target="_blank" rel="noopener noreferrer">
     <span className="asset-preview">
       <img src="/img/cu-logo-assets/seal-text-below-dark.png" alt="Seal Text Below Dark" />
     </span>
     <span className="asset-name">Seal Text Below Dark</span>
   </a>
 
-  <a className="asset-card" href="/img/cu-logo-assets/seal-text-below-light.png">
+  <a className="asset-card" href="/img/cu-logo-assets/seal-text-below-light.png" target="_blank" rel="noopener noreferrer">
     <span className="asset-preview asset-preview-dark">
       <img src="/img/cu-logo-assets/seal-text-below-light.png" alt="Seal Text Below Light" />
     </span>
     <span className="asset-name">Seal Text Below Light</span>
   </a>
 
-  <a className="asset-card" href="/img/cu-logo-assets/seal-blue.png">
+  <a className="asset-card" href="/img/cu-logo-assets/seal-blue.png" target="_blank" rel="noopener noreferrer">
     <span className="asset-preview">
       <img src="/img/cu-logo-assets/seal-blue.png" alt="Blue Seal" />
     </span>
     <span className="asset-name">Blue Seal</span>
   </a>
 
-  <a className="asset-card" href="/img/cu-logo-assets/seal-blue-text-dark.png">
+  <a className="asset-card" href="/img/cu-logo-assets/seal-blue-text-dark.png" target="_blank" rel="noopener noreferrer">
     <span className="asset-preview">
       <img src="/img/cu-logo-assets/seal-blue-text-dark.png" alt="Blue Seal Text Dark" />
     </span>
     <span className="asset-name">Blue Seal Text Dark</span>
   </a>
 
-  <a className="asset-card" href="/img/cu-logo-assets/seal-blue-text-light.png">
+  <a className="asset-card" href="/img/cu-logo-assets/seal-blue-text-light.png" target="_blank" rel="noopener noreferrer">
     <span className="asset-preview">
       <img src="/img/cu-logo-assets/seal-blue-text-light.png" alt="Blue Seal Text Light" />
     </span>
@@ -66,14 +66,14 @@ sidebar_position: 1
 ## CU Text Logos: PNG
 
 <div className="asset-grid">
-  <a className="asset-card" href="/img/cu-logo-assets/text-dark.png">
+  <a className="asset-card" href="/img/cu-logo-assets/text-dark.png" target="_blank" rel="noopener noreferrer">
     <span className="asset-preview">
       <img src="/img/cu-logo-assets/text-dark.png" alt="CU Text Logo Dark" />
     </span>
     <span className="asset-name">CU Text Logo Dark</span>
   </a>
 
-  <a className="asset-card" href="/img/cu-logo-assets/text-light.png">
+  <a className="asset-card" href="/img/cu-logo-assets/text-light.png" target="_blank" rel="noopener noreferrer">
     <span className="asset-preview asset-preview-dark">
       <img src="/img/cu-logo-assets/text-light.png" alt="CU Text Logo Light" />
     </span>
