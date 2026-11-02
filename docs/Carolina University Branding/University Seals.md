@@ -225,13 +225,13 @@ sidebar_position: 1
     <span className="asset-preview">
       <img src="/img/cu-logo-assets/DEN%20Logo%20with%20Text.png" alt="The Den Logo with Text" />
     </span>
-    <span className="asset-name">The Den - Full Logo</span>
+    <span className="asset-name">The Den Logo with Text </span>
   </a>
 
   <a className="asset-card" href="/img/cu-logo-assets/DEN%20Logo.png" target="_blank" rel="noopener noreferrer">
     <span className="asset-preview">
       <img src="/img/cu-logo-assets/DEN%20Logo.png" alt="The Den Logo" />
     </span>
-    <span className="asset-name">The Den - Logo Mark</span>
+    <span className="asset-name">The Den Logo</span>
   </a>
 </div>
