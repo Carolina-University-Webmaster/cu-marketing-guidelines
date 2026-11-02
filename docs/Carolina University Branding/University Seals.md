@@ -217,3 +217,21 @@ sidebar_position: 1
     <span className="asset-name">Library Logo</span>
   </a>
 </div>
+
+## The Den: PNG
+
+<div className="asset-grid">
+  <a className="asset-card" href="/img/cu-logo-assets/The%20Den%20Logo%20Recreated-1.png" target="_blank" rel="noopener noreferrer">
+    <span className="asset-preview">
+      <img src="/img/cu-logo-assets/The%20Den%20Logo%20Recreated-1.png" alt="The Den Logo Recreated" />
+    </span>
+    <span className="asset-name">The Den Logo Recreated</span>
+  </a>
+
+  <a className="asset-card" href="/img/cu-logo-assets/theDen.png" target="_blank" rel="noopener noreferrer">
+    <span className="asset-preview">
+      <img src="/img/cu-logo-assets/theDen.png" alt="The Den Logo" />
+    </span>
+    <span className="asset-name">The Den Logo</span>
+  </a>
+</div>
